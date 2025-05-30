@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P101",
+    "name": "Laptop A",
+    "category": "Electronics",
+    "price": 800
+  },
+  {
+    "id": "P102",
+    "name": "Shampoo",
+    "category": "Personal Care",
+    "price": 10
+  },
+  {
+    "id": "P105",
+    "name": "Banana",
+    "category": "Groceries",
+    "price": 1
+  }
+]
