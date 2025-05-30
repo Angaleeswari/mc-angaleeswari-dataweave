@@ -1,0 +1,5 @@
+You are given a list of products currently available in stock. A customer asks if a specific product is available. Your task is to use contains() to check whether the product exists in the list.
+{
+  "availableProducts": ["Laptop", "Mouse", "Keyboard", "Monitor", "Headphones"],
+  "requestedProduct": "Keyboard"
+}
