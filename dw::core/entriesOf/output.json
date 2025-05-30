@@ -1,0 +1,39 @@
+{
+  "entriesOf": [
+    {
+      "key": "name",
+      "value": "Alice",
+      "attributes": {
+        
+      }
+    },
+    {
+      "key": "age",
+      "value": 25,
+      "attributes": {
+        
+      }
+    },
+    {
+      "key": "city",
+      "value": "Coimbatore",
+      "attributes": {
+        
+      }
+    },
+    {
+      "key": "score",
+      "value": 92,
+      "attributes": {
+        
+      }
+    },
+    {
+      "key": "status",
+      "value": "active",
+      "attributes": {
+        
+      }
+    }
+  ]
+}
