@@ -1,0 +1,4 @@
+You are organizing a school trip. Each bus can hold 40 students. You're given the number of students per class. Your task is to calculate the total number of buses required by rounding up the total students divided by bus capacity.
+{
+  "studentsPerClass": [38, 42, 35, 40, 50]
+}
