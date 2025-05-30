@@ -1,0 +1,5 @@
+You're given the current date and a project deadline. Your task is to use daysBetween() to calculate how many days are left until the deadline.
+{
+  "currentDate": "2025-05-30",
+  "deadline": "2025-06-10"
+}
