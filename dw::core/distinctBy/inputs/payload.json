@@ -1,0 +1,9 @@
+You receive a list of products from multiple suppliers. Each product has a category, and you only want to keep one product per category, regardless of price or supplier. Your job is to keep the first product in each category.
+
+[
+  { "id": "P101", "name": "Laptop A", "category": "Electronics", "price": 800 },
+  { "id": "P102", "name": "Shampoo", "category": "Personal Care", "price": 10 },
+  { "id": "P103", "name": "TV", "category": "Electronics", "price": 400 },
+  { "id": "P104", "name": "Toothpaste", "category": "Personal Care", "price": 3 },
+  { "id": "P105", "name": "Banana", "category": "Groceries", "price": 1 }
+]
