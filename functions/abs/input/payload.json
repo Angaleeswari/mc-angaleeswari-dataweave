@@ -1,0 +1,4 @@
+%dw 2.0
+output application/json
+---
+[abs(-9.12),abs(6.13),abs(-2),abs(5)]
