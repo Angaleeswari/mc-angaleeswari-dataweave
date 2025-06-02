@@ -1,0 +1,17 @@
+[
+  {
+    "product": "Laptop",
+    "orginalprice": 1000,
+    "discountedPrice": 900
+  },
+  {
+    "product": "Phone",
+    "orginalprice": 500,
+    "discountedPrice": 450
+  },
+  {
+    "product": "Tablet",
+    "orginalprice": 300,
+    "discountedPrice": 270
+  }
+]
