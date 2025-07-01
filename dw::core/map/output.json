@@ -1,17 +1,19 @@
-[
-  {
-    "product": "Laptop",
-    "orginalprice": 1000,
-    "discountedPrice": 900
-  },
-  {
-    "product": "Phone",
-    "orginalprice": 500,
-    "discountedPrice": 450
-  },
-  {
-    "product": "Tablet",
-    "orginalprice": 300,
-    "discountedPrice": 270
-  }
-]
+{
+  "inventorySummary": [
+    {
+      "itemId": "I001",
+      "name": "Laptop",
+      "totalValue": 9999.9
+    },
+    {
+      "itemId": "I002",
+      "name": "Desk Chair",
+      "totalValue": 2999.85
+    },
+    {
+      "itemId": "I003",
+      "name": "Notebook",
+      "totalValue": 249.5
+    }
+  ]
+}
