@@ -1,5 +1,25 @@
-[
-  { "name": "Laptop", "price": 1000 },
-  { "name": "Phone", "price": 500 },
-  { "name": "Tablet", "price": 300 }
-]
+{
+  "inventory": [
+    {
+      "itemId": "I001",
+      "name": "Laptop",
+      "quantity": 10,
+      "price": 999.99,
+      "category": "Electronics"
+    },
+    {
+      "itemId": "I002",
+      "name": "Desk Chair",
+      "quantity": 15,
+      "price": 199.99,
+      "category": "Furniture"
+    },
+    {
+      "itemId": "I003",
+      "name": "Notebook",
+      "quantity": 50,
+      "price": 4.99,
+      "category": "Stationery"
+    }
+  ]
+}
